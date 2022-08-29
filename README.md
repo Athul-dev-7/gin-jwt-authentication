@@ -1,1 +1,1 @@
-#  Implementing JWT Authentication in Golang REST APIs (Gin) and securing it with Authentication     Middleware.
+# Implementing JWT Authentication & securing it with Authentication Middleware.
